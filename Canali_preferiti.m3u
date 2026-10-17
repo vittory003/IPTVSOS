@@ -83,3 +83,5 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="Motor.Trend.it" tvg-name="Turbo" tvg-logo="https://i.imgur.com/TjjVjV0.png" tvg-chno="59" group-title="Italia",Turbo
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="Rai4K.it" tvg-name="Rai 4K" tvg-logo="https://i.imgur.com/5gkt9DD.png" tvg-chno="210" group-title="Italia",Rai 4K
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
